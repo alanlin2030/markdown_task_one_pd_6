@@ -1,0 +1,31 @@
+# My Favorite Hobby: Photography
+
+## Why I Love It
+Photography allows me to capture *beautiful moments* and **tell stories** without words. I started learning photography when I was in middle school.
+
+---
+## My Gear
+Here's a quick look at what I use:
+- **Camera**: Canon EOS R10
+- *Lens*: 50mm f/1.8
+- **Editing Software**: Lightroom
+- *Tripod*: Manfrotto Compact Action
+
+---
+## Tips for Beginners
+1. Learn how lighting affects your photos.
+2. Experient with different angles.
+3. Always **back up your files**
+
+---
+## My Favorite Command
+`git add .`- This command saves all my photo project
+
+
+![Triple T tuff](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQymP-bklHVjFBVJ34bwlTls8PLDCgF9GX4RwmNiDwpJZxue5sP70L8XpQh&s=10)
+
+[google.com](www.google.com)
+
+[**teachhub.com**](https://www.schools.nyc.gov/learning/digital-learning/applications-and-platforms/teachhub)
+
+[![grades](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQop9ZJJ14-ujzVfIG-sWo6fVwBORGKbe_5Ik8hB0SPaw&s=10)](https://www.schools.nyc.gov/learning/digital-learning/applications-and-platforms/teachhub)
