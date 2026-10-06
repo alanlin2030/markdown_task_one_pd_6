@@ -29,3 +29,5 @@ Here's a quick look at what I use:
 [**teachhub.com**](https://www.schools.nyc.gov/learning/digital-learning/applications-and-platforms/teachhub)
 
 [![grades](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQop9ZJJ14-ujzVfIG-sWo6fVwBORGKbe_5Ik8hB0SPaw&s=10)](https://www.schools.nyc.gov/learning/digital-learning/applications-and-platforms/teachhub)
+
+![dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9gZtobSvZT42gerLZrcxEbfVABhvNDbb-pbwXJmofYJ-t2I5VERUyETrQqnrZsL-pbvkALeuw9OLj1Ry6ECnFJWiMgZWpZp98J9XEAk5Usw&s=10)
